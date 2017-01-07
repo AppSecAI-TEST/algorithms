@@ -2,7 +2,6 @@ package dynamic;
 
 import java.util.Scanner;
 
-
 public class Abbr {
 
 
